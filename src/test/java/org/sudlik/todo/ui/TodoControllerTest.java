@@ -1,9 +1,9 @@
-package org.example.todo.ui;
+package org.sudlik.todo.ui;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.example.todo.domain.TodoEntity;
-import org.example.todo.domain.TodoRepository;
-import org.example.todo.presenter.TodoPresenter;
+import org.sudlik.todo.domain.TodoEntity;
+import org.sudlik.todo.domain.TodoRepository;
+import org.sudlik.todo.presenter.TodoPresenter;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,10 +1,10 @@
-package org.example.todo.ui;
+package org.sudlik.todo.ui;
 
-import org.example.todo.ObjectId;
-import org.example.todo.domain.TodoEntity;
-import org.example.todo.domain.TodoRepository;
-import org.example.todo.presenter.PresenterCollection;
-import org.example.todo.presenter.TodoPresenter;
+import org.sudlik.todo.ObjectId;
+import org.sudlik.todo.domain.TodoEntity;
+import org.sudlik.todo.domain.TodoRepository;
+import org.sudlik.todo.presenter.PresenterCollection;
+import org.sudlik.todo.presenter.TodoPresenter;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

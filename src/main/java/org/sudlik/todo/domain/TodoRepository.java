@@ -1,4 +1,4 @@
-package org.example.todo.domain;
+package org.sudlik.todo.domain;
 
 import org.springframework.data.repository.CrudRepository;
 

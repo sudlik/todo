@@ -1,7 +1,7 @@
-package org.example.todo.ui;
+package org.sudlik.todo.ui;
 
-import org.example.todo.domain.NotNewTodoCanNotBeCompletedException;
-import org.example.todo.presenter.ErrorPresenter;
+import org.sudlik.todo.domain.NotNewTodoCanNotBeCompletedException;
+import org.sudlik.todo.presenter.ErrorPresenter;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

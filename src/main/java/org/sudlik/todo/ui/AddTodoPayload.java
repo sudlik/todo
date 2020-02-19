@@ -1,4 +1,4 @@
-package org.example.todo.ui;
+package org.sudlik.todo.ui;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

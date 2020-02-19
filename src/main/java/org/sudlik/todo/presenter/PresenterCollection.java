@@ -1,4 +1,4 @@
-package org.example.todo.presenter;
+package org.sudlik.todo.presenter;
 
 import lombok.Getter;
 import lombok.NonNull;

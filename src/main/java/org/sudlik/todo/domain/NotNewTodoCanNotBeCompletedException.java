@@ -1,4 +1,4 @@
-package org.example.todo.domain;
+package org.sudlik.todo.domain;
 
 public class NotNewTodoCanNotBeCompletedException extends RuntimeException {
     public final String id;
